@@ -1,0 +1,46 @@
+body{
+    background-image:url(future_technology_prospects.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a:hover{
+    opacity: 0.5;
+}
+h1:hover{
+    opacity: 0.5;
+}
+h1 {
+    width:fit-content;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    background-image: linear-gradient(to right,#24d7e4, #6157ee );
+    border-radius: 20px;
+    text-shadow: 0 0 3px rgb(56, 38, 219);
+    font-style: italic;
+}
+footer {
+    margin-top: 35rem;
+    margin-left: 85rem;
+    width:fit-content;
+    padding: 10px;
+    background: linear-gradient(to left,#24d7e4, #6157ee );
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 20px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    transition: .4s ease-in;
+}
+.copy{
+    color: white;
+    text-align: center;
+}
+.copy:hover{
+    color: rgb(240, 54, 54);
+}
